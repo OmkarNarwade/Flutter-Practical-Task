@@ -47,7 +47,7 @@ practical_task/
 
 
 ## How to Run
-1. Clone the repository:
+1.Clone the repository:
 ```bash
 git clone https://github.com/OmkarNarwade/Flutter-Practical-Task.git
 cd Flutter-Practical-Task`
@@ -65,8 +65,8 @@ flutter run`
 
 ### Notes
 
-Ensure Android SDK and Flutter are properly installed.
+- Ensure Android SDK and Flutter are properly installed.
 
-The app uses Hive, so first launch may require initializing the Hive box.
+- The app uses Hive, so first launch may require initializing the Hive box.
 
-Timers automatically pause/resume based on post visibility for better UX and performance.
+- Timers automatically pause/resume based on post visibility for better UX and performance.
