@@ -28,8 +28,8 @@ This Flutter application fetches posts from a public API and displays them in a 
 - `shimmer` – loading placeholders
 
 ## Project Structure
-```
-practical_task/
+
+`practical_task/
 │
 ├─ android/
 ├─ ios/
@@ -42,22 +42,22 @@ practical_task/
 ├─ pubspec.yaml
 ├─ README.md
 ├─ .gitignore
-└─ assets/
+└─ assets/`
 
 
 ## How to Run
 1. Clone the repository:
-```bash
+`bash
 git clone https://github.com/OmkarNarwade/Flutter-Practical-Task.git
-cd Flutter-Practical-Task
+cd Flutter-Practical-Task`
 
 2.Install dependencies:
-```bash
-flutter pub get
+`bash
+flutter pub get`
 
 3.Run the app:
-```bash
-flutter run
+`bash
+flutter run`
 
 ### Notes
 
